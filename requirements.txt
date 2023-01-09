@@ -1,0 +1,7 @@
+detectlanguage
+Flask
+nltk
+numpy
+requests
+torch
+gunicorn
